@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e2033d9-1c70-745c-df89-aaba3495d50b
 resourcetype: Document
 title: homunculattice.pdf
 uid: 27c13e74-048c-b338-fa46-4f06f614c237

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e2033d9-1c70-745c-df89-aaba3495d50b
 resourcetype: Document
 title: abstractwriteup2.pdf
 uid: 7a5b20bb-bd44-ee47-a38a-a7ad798e72b3

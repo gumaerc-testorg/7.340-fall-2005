@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e2033d9-1c70-745c-df89-aaba3495d50b
 resourcetype: Document
 title: research_prop1.pdf
 uid: 7b9f4876-211d-8e48-3639-dcc92616a89f

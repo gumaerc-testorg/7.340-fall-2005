@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e2033d9-1c70-745c-df89-aaba3495d50b
 resourcetype: Document
 title: assignment2_anna.pdf
 uid: 4512063b-471c-120d-06d8-d2d8d38850a5

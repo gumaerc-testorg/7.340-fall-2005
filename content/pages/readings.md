@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The reading section lists the overview and journal articles as per the
+  sessions covered in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

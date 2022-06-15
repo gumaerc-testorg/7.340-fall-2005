@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/fff18ed7f7829e2da3b72dbd56f8bbee_Andrew_Assignment2.pdf
+file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/fff18ed7f7829e2da3b72dbd56f8bbee_Andrew_Assignment2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

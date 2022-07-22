@@ -6,6 +6,7 @@ file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: abstractwriteup2.pdf
 uid: 7a5b20bb-bd44-ee47-a38a-a7ad798e72b3
 ---
 This resource contains assignment 1 problem along with due date, abstract and guidelines for submitting the assignment.
-

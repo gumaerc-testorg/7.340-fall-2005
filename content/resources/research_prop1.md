@@ -6,6 +6,7 @@ file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: research_prop1.pdf
 uid: 7b9f4876-211d-8e48-3639-dcc92616a89f
 ---
 This resource contains assignment 1 problem along with due date, proposal content, submission guidelines and presentation guidelines.
-

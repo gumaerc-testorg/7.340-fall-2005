@@ -7,6 +7,7 @@ file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 7_340_proposal.pdf
 uid: 44af8546-e8ab-b4de-20b6-50210ce57948
 ---
 This resource contains introduction, specific aims, experiments and expected results, discussions and conclusions, references to structure of the RNA channel formed between poliovirus and the afflicted cell during infection.
-

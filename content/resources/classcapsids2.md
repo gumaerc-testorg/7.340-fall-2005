@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: classcapsids2.jpg
 uid: f9262d2b-1935-b732-8b95-75835c861430
 ---
 Photo of the homunculattice assignment. Photo by Peter Weigele.
-

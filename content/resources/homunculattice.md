@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Homunculattice.tif
 uid: a2e7c9ab-290e-d13f-ff70-6ce7b03f61c4
 ---
 This resource contains hexagonal lattice of humanoid figures (a homuncu-lattice) representing capsid subunits printed onto 11? x 17? card stock.
-

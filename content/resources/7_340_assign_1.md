@@ -6,6 +6,7 @@ file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 7_340_assign_1.pdf
 uid: 792eaeee-42e3-51a2-f125-fb36d91e04bf
 ---
 This resource contains assignment 1 problem along with due date, approximate time to complete and hints to solve the problem.
-

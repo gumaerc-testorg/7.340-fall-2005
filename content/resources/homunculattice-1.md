@@ -7,6 +7,7 @@ file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: homunculattice.pdf
 uid: 27c13e74-048c-b338-fa46-4f06f614c237
 ---
 This resource is a assignments and it consists of a hexagonal lattice of humanoid figures (a homuncu-lattice) representing capsid subunits printed onto 11" x 17" card stock.
-

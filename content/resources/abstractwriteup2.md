@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains assignment 1 problem along with due date, abstract
   and guidelines for submitting the assignment.
-file: /courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/7a5b20bbbd44ee47a38aa7ad798e72b3_abstractwriteup2.pdf
+file: /ol-ocw-studio-app/courses/7-340-nano-life-an-introduction-to-virus-structure-and-assembly-fall-2005/7a5b20bbbd44ee47a38aa7ad798e72b3_abstractwriteup2.pdf
+file_size: 81886
 file_type: application/pdf
 learning_resource_types:
 - Assignments
